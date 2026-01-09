@@ -5,4 +5,4 @@
 ![VS2022](https://img.shields.io/badge/Visual%20Studio-2026-white.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.2026.0-yellow.svg)]
 
-Das Beispiel zu die Erstellung und die Verwendung des Mediator Patterns als Generische Variante in C# und .NET 10.
+Das Beispiel zeigt die Erstellung und die Verwendung des Mediator Patterns als Generische Variante in C# und .NET 10.
